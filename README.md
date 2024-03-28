@@ -8,7 +8,7 @@
 josephmangara/josephmangara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-This is one of the projects that I recently worked on: https://techpatents.onrender.com/uploadpatents 
+This is one of the projects that I recently worked on: https://techpatents.onrender.com/ 
 
 
 <h3 align="left">Languages and Tools:</h3>
