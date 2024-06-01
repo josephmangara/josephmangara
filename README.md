@@ -23,9 +23,7 @@ This is one of the projects that I recently worked on: https://techpatents.onren
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephmangara&show_icons=true&locale=en&layout=compact" alt="josephmangara" /></p>
 
-<!---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephmangara&" alt="josephmangara" /></p>
---->
 
 <a href="https://www.buymeacoffee.com/mangara">Buy Joseph Mangara a coffee </a>
  
