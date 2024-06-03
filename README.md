@@ -9,6 +9,7 @@ josephmangara/josephmangara is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 This is one of the projects that I recently worked on: <a href="https://my-hiking-adventures.vercel.app/" target="_blank">Hiking journal</a>
+<br></br>
 This is the link to my portfolio: <a href="https://mangara-portfolio.vercel.app/" target="_blank">Joseph Mangara's portfolio</a>
 <!---
 This is one of the projects that I recently worked on: https://techpatents.onrender.com/ 
