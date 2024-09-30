@@ -2,7 +2,7 @@
 -  I’m interested in developing aesthetic and interactive websites powered by powerful self-built APIs. 
 -  I’m currently growing my expertise in python, mySql, Postgresql, and flask for the backend.
 -  I also have experience working with HTML, CSS, Javascript, React, bootstrap, and tailwind CSS.
-- I’m looking to collaborate on building a photo collection API and a website for displaying my work. 
+- I’m looking to collaborate on building a photo collection API. 
 -  You can reach out to me through my email:  josephmangara2@gmail.com 
 
 <!---
