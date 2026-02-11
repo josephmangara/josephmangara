@@ -1,4 +1,4 @@
--  Hi, I’m @josephmangara
+-  Welcome to my profile.
 -  I’m interested in developing fun and interactive websites and APIs. 
 -  I use python, SQLAlchemy, Postgresql, and flask for the backend.
 -  I also have experience working with HTML, CSS, Javascript, React, Figma, bootstrap, and tailwind CSS.
