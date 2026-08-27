@@ -1,21 +1,21 @@
--  Welcome to my profile.
+Hello
 -  I’m interested in developing fun and interactive websites and APIs. 
 -  I use python, SQLAlchemy, Postgresql, and flask for the backend.
 -  I also have experience working with HTML, CSS, Javascript, React, Figma, bootstrap, and tailwind CSS.
-- I’m looking to collaborate on building a photo collection API. 
--  You can reach out to me through my email:  josephmangara2@gmail.com 
-
 <!---
 josephmangara/josephmangara is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-This is one of the projects that I recently worked on: <a href="https://my-hiking-adventures.vercel.app/" target="_blank">Hiking journal</a>
+These are some of my recent projects: 
+<ul>
+  <li><a href="https://zawadi-art-studio.vercel.app/" target="_blank">Zawadi Art</a></li>
+  <li><a href="https://my-hiking-adventures.vercel.app/" target="_blank">Hiking journal</a></li>
+  <li><a href="https://pluric-plumbing-services.vercel.app" target="_blank">Pluric Plumbing Services</a></li>
+  <li><a href="https://maureen-memorial.vercel.app/" target="_blank">Maureen Memorial Training Centre</a></li>
+</ul>
+
 <br></br>
 This is the link to my portfolio: <a href="https://mangara-portfolio.vercel.app/" target="_blank">Joseph Mangara's portfolio</a>
-<!---
-This is one of the projects that I recently worked on: https://techpatents.onrender.com/ 
---->
-
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -95,7 +95,7 @@ This is one of the projects that I recently worked on: https://techpatents.onren
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephmangara&show_icons=true&locale=en&layout=compact" alt="josephmangara" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=josephmangara&show_icons=true&locale=en&layout=compact" alt="josephmangara" /></p> -->
 
 <!---
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=josephmangara&" alt="josephmangara" /></p>
