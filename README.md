@@ -1,5 +1,5 @@
 Hello
--  I’m interested in developing fun and interactive websites and APIs. 
+-  I develop user-first interactive websites and APIs. 
 -  I use python, SQLAlchemy, Postgresql, and flask for the backend.
 -  I also have experience working with HTML, CSS, Javascript, React, Figma, bootstrap, and tailwind CSS.
 <!---
@@ -8,10 +8,10 @@ You can click the Preview link to take a look at your changes.
 --->
 These are some of my recent projects: 
 <ul>
+  <li><a href="https://geokimfoundation.org/" target="_blank">Geokim Foundation</a></li>
   <li><a href="https://zawadi-art-studio.vercel.app/" target="_blank">Zawadi Art</a></li>
   <li><a href="https://my-hiking-adventures.vercel.app/" target="_blank">Hiking journal</a></li>
   <li><a href="https://pluric-plumbing-services.vercel.app" target="_blank">Pluric Plumbing Services</a></li>
-  <li><a href="https://geokimfoundation.org/" target="_blank">Geokim Foundation</a></li>
 </ul>
 
 <br></br>
